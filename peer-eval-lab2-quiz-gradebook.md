@@ -32,7 +32,7 @@
 | # | ประเภทข้อสอบ | สิ่งที่ต้องเห็น | ✅ |
 |---|---|---|:---:|
 | 9 | **All-or-Nothing MC** | เลือกได้หลายตัว ต้องถูกครบจึงได้คะแนน | `[ ✅ ]` |
-| 10 | **Drag and Drop into Text** | มีช่อง `[[1]]` ในโจทย์ พร้อม Drag items | `[  ✅]` |
+| 10 | **Drag and Drop into Text** | มีช่อง `[[1]]` ในโจทย์ พร้อม Drag items | `[ ✅ ]` |
 | 11 | **Drag and Drop Markers** | มีภาพพื้นหลัง พร้อม Markers และ Drop zones | `[ ✅ ]` |
 | 12 | **Ordering** | มี Items เรียงลำดับ พร้อม Grading method | `[ ✅ ]` |
 | 13 | **Select Missing Words** | มีช่อง `[[1]]` ในโจทย์ พร้อม Choice Groups | `[ ✅ ]` |
